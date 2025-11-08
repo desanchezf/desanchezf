@@ -8,14 +8,13 @@
 
 ![Languages Activity](./metrics.plugin.languages.svg)
 
+![Isometric Commit Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+
 ---
 
 ## 👨‍💻 Sobre mí
 
 Actualmente trabajo como **Arquitecto de Software**, especializado en el diseño y desarrollo de soluciones backend robustas y escalables.
-
-![Isometric Commit Calendar](./metrics.plugin.isocalendar.fullyear.svg)
-
 
 ## 🚀 Experiencia Técnica
 
