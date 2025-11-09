@@ -1,88 +1,95 @@
 
 
-### ¡Hola! 👋 Soy David Sánchez Fernández
+### Hi there! 👋 I'm David Sánchez
 
-🏗️ **Arquitecto de Software** | 💻 Backend Developer | ⚡ Python Enthusiast | 🚀 DevOps
+🏗️ **Software Architect** | 💻 Backend Developer | ⚡ Python Enthusiast | 🚀 DevOps
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desanchezf&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desanchezf&layout=compact)]: #
 
-![Languages Activity](./metrics.plugin.languages.svg)
-
-![Isometric Commit Calendar](./metrics.plugin.isocalendar.fullyear.svg)
+<div align="center">
+  <img src="./metrics.plugin.languages.svg" alt="Languages Activity" width="400"/>
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" width="400"/>
+</div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Actualmente trabajo como **Arquitecto de Software**, especializado en el diseño y desarrollo de soluciones backend robustas y escalables.
+With initial experience as a **Backend Developer**, I currently serve as a **Software Architect**, specializing in **backend** development (Python/Django/FastAPI) and **DevOps**, with experience in consuming and integrating **AI** and **Blockchain** services, as well as developing **conversational chatbots**. Currently exploring **generative AI**, **predictive analysis**, and **web scraping**. Currently learning **Rust**, and pending **AWS Cloud Practitioner** certification.
 
-## 🚀 Experiencia Técnica
+## 🚀 Technical Experience
 
 ### Backend & APIs
-- **Python** (Django) - Desarrollo backend avanzado
-- **API REST** - Desarrollo y consumo de servicios RESTful
-- **Microservicios** y arquitecturas distribuidas
-- **Streamlit** - Desarrollo rápido de aplicaciones web y dashboards interactivos
+- **Python** (Django) - Advanced backend development
+- **REST API** - Development and consumption of RESTful services
+- **Microservices** and distributed architectures
+- **Streamlit** - Rapid development of web applications and interactive dashboards
 
 ### DevOps & Cloud
-- **Docker / Docker-compose** - Containerización y orquestación
+- **Docker / Docker-compose** - Containerization and orchestration
+- **Git / GitHub** - Version control with Gitflow methodology
+- **CI/CD** - Continuous integration and deployment pipelines
 - **AWS** - Amazon Web Services
 - **Azure** - Microsoft Azure
-- **Heroku** - Despliegue de aplicaciones en la nube
-- Monitorización de sistemas y plataformas
+- **Heroku** - Cloud application deployment
+- System and platform monitoring
 
-### Tecnologías Emergentes
-- **Chatbots conversacionales** - Desarrollo de asistentes inteligentes
-- **OpenWebUI** - Interfaz web para modelos de IA y LLMs
-- **Web Scraping** (Selenium, Scrapy) - Automatización de procesos de extracción de datos
-- **Blockchain** - Integración de servicios blockchain
+### Emerging Technologies
+- **Conversational chatbots** - Development of intelligent assistants
+- **OpenWebUI** - Web interface for AI models and LLMs
+- **Web Scraping** (Selenium, Scrapy) - Automation of data extraction processes
+- **Blockchain** - Blockchain services integration
 
-### Otras Competencias
-- Automatización de procesos
-- Mantenimiento y soporte de plataformas
-- Arquitectura de software
-- **Prompt Engineering** - Diseño de prompts para IA
+### Other Skills
+- Process automation
+- Platform maintenance and support
+- Software architecture
+- **Prompt Engineering** - AI prompt design
 
-## 🌍 Idiomas
+## 🌍 Languages
 
-- 🇪🇸 **Español** - Nativo
-- 🇬🇧 **Inglés** - Nivel intermedio
+- 🇪🇸 **Spanish** - Native
+- 🇬🇧 **English** - Intermediate level
 
-## 📚 Actualmente aprendiendo
+## 📜 Certifications
 
-- 🦀 **Rust** - Aprendiéndolo de manera continua
-- ☁️ **Certificación AWS** - En preparación
-- ⚙️ **Kubernetes** - Pendiente
+- 🎯 **Scrum Master Professional Certified** (SMPC)
 
-## 💼 Proyectos Destacados
+## 📚 Currently Learning
 
-> 🚧 Proyectos en desarrollo - Serán públicos cuando estén en su versión estable
+- 🦀 **Rust** - Continuous learning
+- ☁️ **AWS Certification** - In preparation
+- ⚙️ **Kubernetes** - Pending
 
-### 💪 Evolveme
-**Plataforma de seguimiento de entrenamientos deportivos**
-- Trackeo personalizado de rutinas de gimnasio
-- Registro y análisis de progreso físico
-- Sistema de estadísticas y métricas de rendimiento
+## 💼 Featured Projects
 
-### 🏀 NBA Data Manager
-**Sistema de análisis y predicciones deportivas**
-- Recopilación y procesamiento de datos en tiempo real
-- Predicciones pre-partido y análisis en vivo
-- Dashboard con estadísticas avanzadas de la NBA
+> 🚧 Projects under development - Will be public when stable version is ready
 
-### ⚾ MLB Data Manager
-**Plataforma de análisis de béisbol profesional**
-- Análisis predictivo de partidos de la MLB
-- Procesamiento de datos históricos y en tiempo real
-- Modelos de machine learning para predicciones deportivas
+### 💪 Evolveme (WIP)
+**Sports training tracking platform**
+- Personalized gym routine tracking
+- Physical progress recording and analysis
+- Performance statistics and metrics system
+
+### 🏀 NBA Data Manager (WIP)
+**Sports analysis and prediction system**
+- Real-time data collection and processing
+- Pre-game predictions and live analysis
+- NBA advanced statistics dashboard
+
+### ⚾ MLB Data Manager (Pending)
+**Professional baseball analysis platform**
+- MLB game predictive analysis
+- Historical and real-time data processing
+- Machine learning models for sports predictions
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - 📧 Email: davidsfernandez7@outlook.es
-- 💼 LinkedIn: [Conéctate conmigo](#)
-- 🌐 Portfolio: [En desarrollo](#)
+- 💼 LinkedIn: [Connect with me](#)
+- 🌐 Portfolio: [Under development](#)
 
 ---
 
