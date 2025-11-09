@@ -4,10 +4,14 @@
 
 🏗️ **Software Architect** | 💻 Backend Developer | ⚡ Python Enthusiast | 🚀 DevOps
 
+<br/>
+
 <div align="center">
-  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" width="400"/>
-  <img src="./metrics.plugin.languages.svg" alt="Languages Activity" width="400"/>
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" width="49%" style="margin: 10px;"/>
+  <img src="./metrics.plugin.languages.svg" alt="Languages Activity" width="49%" style="margin: 10px;"/>
 </div>
+
+<br/>
 
 ---
 
