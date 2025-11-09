@@ -4,8 +4,6 @@
 
 🏗️ **Software Architect** | 💻 Backend Developer | ⚡ Python Enthusiast | 🚀 DevOps
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desanchezf&layout=compact)]: #
-
 <div align="center">
   <img src="./metrics.plugin.languages.svg" alt="Languages Activity" width="400"/>
   <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar" width="400"/>
